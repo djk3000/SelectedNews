@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">网易新闻</string>
+    <string name="success_code">1000</string>
+    <string name="failure_code">1001</string>
+    <string name="title_home">头条</string>
+    <string name="title_moive">视频</string>
+    <string name="title_text">小说</string>
+    <string name="title_login">未登录</string>
+    <string name="address">https://c.m.163.com/nc/article/headline/T1348647853363/0-40.html</string>
+</resources>
